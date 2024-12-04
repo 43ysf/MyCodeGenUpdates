@@ -546,3 +546,7 @@ C:\Users\Yousif\Desktop\MyCodeGenPulishing\MyCodeGenUpdates\MyCodeGenerator\Code
 C:\Users\Yousif\Desktop\MyCodeGenPulishing\MyCodeGenUpdates\MyCodeGenerator\CodeGenerator\obj\Debug\CodeGenerator.csproj.CopyComplete
 C:\Users\Yousif\Desktop\MyCodeGenPulishing\MyCodeGenUpdates\MyCodeGenerator\CodeGenerator\obj\Debug\CodeGenerator.exe
 C:\Users\Yousif\Desktop\MyCodeGenPulishing\MyCodeGenUpdates\MyCodeGenerator\CodeGenerator\obj\Debug\CodeGenerator.pdb
+C:\Users\Yousif\Desktop\MyCodeGenPulishing\MyCodeGenUpdates\MyCodeGenerator\CodeGenerator\bin\Debug\CodeGenerator.exe.manifest
+C:\Users\Yousif\Desktop\MyCodeGenPulishing\MyCodeGenUpdates\MyCodeGenerator\CodeGenerator\bin\Debug\CodeGenerator.application
+C:\Users\Yousif\Desktop\MyCodeGenPulishing\MyCodeGenUpdates\MyCodeGenerator\CodeGenerator\obj\Debug\CodeGenerator.exe.manifest
+C:\Users\Yousif\Desktop\MyCodeGenPulishing\MyCodeGenUpdates\MyCodeGenerator\CodeGenerator\obj\Debug\CodeGenerator.application
