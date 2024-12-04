@@ -45,3 +45,14 @@ E:\FolderCode\YousefProject\MyCodeGenerator\MyCodeGenerator\CodeGenAccess\obj\De
 E:\FolderCode\YousefProject\MyCodeGenerator\MyCodeGenerator\CodeGenAccess\obj\Debug\CodeGenAccess.pdb
 E:\FolderCode\YousefProject\MyCodeGenerator\MyCodeGenerator\CodeGenAccess\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
 E:\FolderCode\YousefProject\MyCodeGenerator\MyCodeGenerator\CodeGenAccess\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Yousif\Desktop\MyCodeGenPulishing\MyCodeGenUpdates\MyCodeGenerator\CodeGenAccess\bin\Debug\CodeGenAccess.dll
+C:\Users\Yousif\Desktop\MyCodeGenPulishing\MyCodeGenUpdates\MyCodeGenerator\CodeGenAccess\bin\Debug\CodeGenAccess.pdb
+C:\Users\Yousif\Desktop\MyCodeGenPulishing\MyCodeGenUpdates\MyCodeGenerator\CodeGenAccess\bin\Debug\MyC#AndSQLLib.dll
+C:\Users\Yousif\Desktop\MyCodeGenPulishing\MyCodeGenUpdates\MyCodeGenerator\CodeGenAccess\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Yousif\Desktop\MyCodeGenPulishing\MyCodeGenUpdates\MyCodeGenerator\CodeGenAccess\bin\Debug\MyC#AndSQLLib.pdb
+C:\Users\Yousif\Desktop\MyCodeGenPulishing\MyCodeGenUpdates\MyCodeGenerator\CodeGenAccess\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Yousif\Desktop\MyCodeGenPulishing\MyCodeGenUpdates\MyCodeGenerator\CodeGenAccess\obj\Debug\CodeGenAccess.csproj.AssemblyReference.cache
+C:\Users\Yousif\Desktop\MyCodeGenPulishing\MyCodeGenUpdates\MyCodeGenerator\CodeGenAccess\obj\Debug\CodeGenAccess.csproj.CoreCompileInputs.cache
+C:\Users\Yousif\Desktop\MyCodeGenPulishing\MyCodeGenUpdates\MyCodeGenerator\CodeGenAccess\obj\Debug\CodeGenAccess.csproj.CopyComplete
+C:\Users\Yousif\Desktop\MyCodeGenPulishing\MyCodeGenUpdates\MyCodeGenerator\CodeGenAccess\obj\Debug\CodeGenAccess.dll
+C:\Users\Yousif\Desktop\MyCodeGenPulishing\MyCodeGenUpdates\MyCodeGenerator\CodeGenAccess\obj\Debug\CodeGenAccess.pdb

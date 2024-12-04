@@ -25,7 +25,7 @@
     <InstallUrl>https://github.com/43ysf/MyCodeGenUpdates/blob/main/publishing/</InstallUrl>
     <CreateWebPageOnPublish>true</CreateWebPageOnPublish>
     <WebPage>publish.htm</WebPage>
-    <ApplicationRevision>3</ApplicationRevision>
+    <ApplicationRevision>1</ApplicationRevision>
     <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
     <UseApplicationTrust>false</UseApplicationTrust>
     <PublishWizardCompleted>true</PublishWizardCompleted>
@@ -59,7 +59,7 @@
     <ApplicationManifest>app.manifest</ApplicationManifest>
   </PropertyGroup>
   <PropertyGroup>
-    <ManifestCertificateThumbprint>E97013769D6D665E1064271E921D6F5AFEFB0863</ManifestCertificateThumbprint>
+    <ManifestCertificateThumbprint>AE60B67F06B91F15E05D41958B228956F20FA905</ManifestCertificateThumbprint>
   </PropertyGroup>
   <PropertyGroup>
     <ManifestKeyFile>CodeGenerator_TemporaryKey.pfx</ManifestKeyFile>

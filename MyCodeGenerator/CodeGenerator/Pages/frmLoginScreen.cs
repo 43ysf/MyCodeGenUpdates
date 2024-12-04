@@ -20,8 +20,6 @@ namespace CodeGenerator.Pages
         }
 
 
-
-
         Settings st = new Settings();
         static bool IsDark = false;
         public static string ThemeMode = "";

@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeGenAccess", "CodeGenAcc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeGenBuisness", "CodeGenBuisness\CodeGenBuisness.csproj", "{D5CF0466-69ED-4C2D-A116-0E18CC9F0CF2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyC#AndSQLLib", "MyC#AndSQLLib\MyC#AndSQLLib.csproj", "{088E51B9-4052-4599-819F-6C9E00483993}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyCSharpAndSQLLib", "MyC#AndSQLLib\MyCSharpAndSQLLib.csproj", "{088E51B9-4052-4599-819F-6C9E00483993}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

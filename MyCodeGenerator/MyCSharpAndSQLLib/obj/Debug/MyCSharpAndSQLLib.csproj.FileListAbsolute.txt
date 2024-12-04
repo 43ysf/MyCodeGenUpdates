@@ -1,0 +1,9 @@
+C:\Users\Yousif\Desktop\MyCodeGenPulishing\MyCodeGenUpdates\MyCodeGenerator\MyC#AndSQLLib\bin\Debug\MyCSharpAndSQLLib.dll
+C:\Users\Yousif\Desktop\MyCodeGenPulishing\MyCodeGenUpdates\MyCodeGenerator\MyC#AndSQLLib\bin\Debug\MyCSharpAndSQLLib.pdb
+C:\Users\Yousif\Desktop\MyCodeGenPulishing\MyCodeGenUpdates\MyCodeGenerator\MyC#AndSQLLib\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Yousif\Desktop\MyCodeGenPulishing\MyCodeGenUpdates\MyCodeGenerator\MyC#AndSQLLib\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Yousif\Desktop\MyCodeGenPulishing\MyCodeGenUpdates\MyCodeGenerator\MyC#AndSQLLib\obj\Debug\MyCSharpAndSQLLib.csproj.AssemblyReference.cache
+C:\Users\Yousif\Desktop\MyCodeGenPulishing\MyCodeGenUpdates\MyCodeGenerator\MyC#AndSQLLib\obj\Debug\MyCSharpAndSQLLib.csproj.CoreCompileInputs.cache
+C:\Users\Yousif\Desktop\MyCodeGenPulishing\MyCodeGenUpdates\MyCodeGenerator\MyC#AndSQLLib\obj\Debug\MyCSharpAndSQLLib.csproj.CopyComplete
+C:\Users\Yousif\Desktop\MyCodeGenPulishing\MyCodeGenUpdates\MyCodeGenerator\MyC#AndSQLLib\obj\Debug\MyCSharpAndSQLLib.dll
+C:\Users\Yousif\Desktop\MyCodeGenPulishing\MyCodeGenUpdates\MyCodeGenerator\MyC#AndSQLLib\obj\Debug\MyCSharpAndSQLLib.pdb

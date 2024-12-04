@@ -506,6 +506,7 @@ C:\Users\Yousif\Desktop\MyCodeGenPulishing\MyCodeGenUpdates\MyCodeGenerator\Code
 C:\Users\Yousif\Desktop\MyCodeGenPulishing\MyCodeGenUpdates\MyCodeGenerator\CodeGenerator\bin\Debug\System.Threading.Tasks.Extensions.dll
 C:\Users\Yousif\Desktop\MyCodeGenPulishing\MyCodeGenUpdates\MyCodeGenerator\CodeGenerator\bin\Debug\System.ValueTuple.dll
 C:\Users\Yousif\Desktop\MyCodeGenPulishing\MyCodeGenUpdates\MyCodeGenerator\CodeGenerator\bin\Debug\CodeGenAccess.dll
+C:\Users\Yousif\Desktop\MyCodeGenPulishing\MyCodeGenUpdates\MyCodeGenerator\CodeGenerator\bin\Debug\MyCSharpAndSQLLib.dll
 C:\Users\Yousif\Desktop\MyCodeGenPulishing\MyCodeGenUpdates\MyCodeGenerator\CodeGenerator\bin\Debug\MyC#AndSQLLib.dll
 C:\Users\Yousif\Desktop\MyCodeGenPulishing\MyCodeGenUpdates\MyCodeGenerator\CodeGenerator\bin\Debug\CodeGenBuisness.pdb
 C:\Users\Yousif\Desktop\MyCodeGenPulishing\MyCodeGenUpdates\MyCodeGenerator\CodeGenerator\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
@@ -529,6 +530,7 @@ C:\Users\Yousif\Desktop\MyCodeGenPulishing\MyCodeGenUpdates\MyCodeGenerator\Code
 C:\Users\Yousif\Desktop\MyCodeGenPulishing\MyCodeGenUpdates\MyCodeGenerator\CodeGenerator\bin\Debug\System.Threading.Tasks.Extensions.xml
 C:\Users\Yousif\Desktop\MyCodeGenPulishing\MyCodeGenUpdates\MyCodeGenerator\CodeGenerator\bin\Debug\System.ValueTuple.xml
 C:\Users\Yousif\Desktop\MyCodeGenPulishing\MyCodeGenUpdates\MyCodeGenerator\CodeGenerator\bin\Debug\CodeGenAccess.pdb
+C:\Users\Yousif\Desktop\MyCodeGenPulishing\MyCodeGenUpdates\MyCodeGenerator\CodeGenerator\bin\Debug\MyCSharpAndSQLLib.pdb
 C:\Users\Yousif\Desktop\MyCodeGenPulishing\MyCodeGenUpdates\MyCodeGenerator\CodeGenerator\bin\Debug\MyC#AndSQLLib.pdb
 C:\Users\Yousif\Desktop\MyCodeGenPulishing\MyCodeGenUpdates\MyCodeGenerator\CodeGenerator\obj\Debug\CodeGenerator.csproj.AssemblyReference.cache
 C:\Users\Yousif\Desktop\MyCodeGenPulishing\MyCodeGenUpdates\MyCodeGenerator\CodeGenerator\obj\Debug\CodeGenerator.csproj.SuggestedBindingRedirects.cache
