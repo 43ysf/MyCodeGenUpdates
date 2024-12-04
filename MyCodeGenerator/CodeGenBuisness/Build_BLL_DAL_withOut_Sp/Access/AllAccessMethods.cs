@@ -17,6 +17,7 @@ namespace CodeGenBusiness
 {
     public partial class clsTable
     {
+
         private string GenerateMethodDataAccessAddNew()
         {
             StringBuilder MethodBuilder = new StringBuilder();
