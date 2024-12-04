@@ -1,0 +1,104 @@
+C:\Users\Yousif\Desktop\CodeGen\MyCodeGenerator (4)\MyCodeGenerator\CodeGenBuisness\bin\Debug\CodeGenBuisness.dll
+C:\Users\Yousif\Desktop\CodeGen\MyCodeGenerator (4)\MyCodeGenerator\CodeGenBuisness\bin\Debug\CodeGenBuisness.pdb
+C:\Users\Yousif\Desktop\CodeGen\MyCodeGenerator (4)\MyCodeGenerator\CodeGenBuisness\obj\Debug\CodeGenBuisness.csproj.AssemblyReference.cache
+C:\Users\Yousif\Desktop\CodeGen\MyCodeGenerator (4)\MyCodeGenerator\CodeGenBuisness\obj\Debug\CodeGenBuisness.csproj.CoreCompileInputs.cache
+C:\Users\Yousif\Desktop\CodeGen\MyCodeGenerator (4)\MyCodeGenerator\CodeGenBuisness\obj\Debug\CodeGenBuisness.dll
+C:\Users\Yousif\Desktop\CodeGen\MyCodeGenerator (4)\MyCodeGenerator\CodeGenBuisness\obj\Debug\CodeGenBuisness.pdb
+C:\Users\Yousif\Desktop\CodeGen\MyCodeGenerator (4)\MyCodeGenerator\CodeGenBuisness\bin\Debug\CodeGenAccess.dll
+C:\Users\Yousif\Desktop\CodeGen\MyCodeGenerator (4)\MyCodeGenerator\CodeGenBuisness\bin\Debug\CodeGenAccess.pdb
+C:\Users\Yousif\Desktop\CodeGen\MyCodeGenerator (4)\MyCodeGenerator\CodeGenBuisness\obj\Debug\CodeGenBuisness.csproj.CopyComplete
+C:\Users\Yousif\Desktop\CodeGen\MyCodeGenerator (4)\MyCodeGenerator\CodeGenBuisness\bin\Debug\MyC#AndSQLLib.dll
+C:\Users\Yousif\Desktop\CodeGen\MyCodeGenerator (4)\MyCodeGenerator\CodeGenBuisness\bin\Debug\MyC#AndSQLLib.pdb
+C:\Users\Yousif\Desktop\YousifCodeGen\MyCodeGenerator\CodeGenBuisness\bin\Debug\CodeGenBuisness.dll
+C:\Users\Yousif\Desktop\YousifCodeGen\MyCodeGenerator\CodeGenBuisness\bin\Debug\CodeGenBuisness.pdb
+C:\Users\Yousif\Desktop\YousifCodeGen\MyCodeGenerator\CodeGenBuisness\bin\Debug\CodeGenAccess.dll
+C:\Users\Yousif\Desktop\YousifCodeGen\MyCodeGenerator\CodeGenBuisness\bin\Debug\MyC#AndSQLLib.dll
+C:\Users\Yousif\Desktop\YousifCodeGen\MyCodeGenerator\CodeGenBuisness\bin\Debug\CodeGenAccess.pdb
+C:\Users\Yousif\Desktop\YousifCodeGen\MyCodeGenerator\CodeGenBuisness\bin\Debug\MyC#AndSQLLib.pdb
+C:\Users\Yousif\Desktop\YousifCodeGen\MyCodeGenerator\CodeGenBuisness\obj\Debug\CodeGenBuisness.csproj.AssemblyReference.cache
+C:\Users\Yousif\Desktop\YousifCodeGen\MyCodeGenerator\CodeGenBuisness\obj\Debug\CodeGenBuisness.csproj.CoreCompileInputs.cache
+C:\Users\Yousif\Desktop\YousifCodeGen\MyCodeGenerator\CodeGenBuisness\obj\Debug\CodeGenBuisness.csproj.CopyComplete
+C:\Users\Yousif\Desktop\YousifCodeGen\MyCodeGenerator\CodeGenBuisness\obj\Debug\CodeGenBuisness.dll
+C:\Users\Yousif\Desktop\YousifCodeGen\MyCodeGenerator\CodeGenBuisness\obj\Debug\CodeGenBuisness.pdb
+E:\FolderCode\YousefProject\MyCodeGenerator\CodeGenBuisness\bin\Debug\CodeGenBuisness.dll
+E:\FolderCode\YousefProject\MyCodeGenerator\CodeGenBuisness\bin\Debug\CodeGenBuisness.pdb
+E:\FolderCode\YousefProject\MyCodeGenerator\CodeGenBuisness\bin\Debug\CodeGenAccess.dll
+E:\FolderCode\YousefProject\MyCodeGenerator\CodeGenBuisness\bin\Debug\MyC#AndSQLLib.dll
+E:\FolderCode\YousefProject\MyCodeGenerator\CodeGenBuisness\bin\Debug\CodeGenAccess.pdb
+E:\FolderCode\YousefProject\MyCodeGenerator\CodeGenBuisness\bin\Debug\MyC#AndSQLLib.pdb
+E:\FolderCode\YousefProject\MyCodeGenerator\CodeGenBuisness\obj\Debug\CodeGenBuisness.csproj.AssemblyReference.cache
+E:\FolderCode\YousefProject\MyCodeGenerator\CodeGenBuisness\obj\Debug\CodeGenBuisness.csproj.CoreCompileInputs.cache
+E:\FolderCode\YousefProject\MyCodeGenerator\CodeGenBuisness\obj\Debug\CodeGenB.EFB0B36C.Up2Date
+E:\FolderCode\YousefProject\MyCodeGenerator\CodeGenBuisness\obj\Debug\CodeGenBuisness.dll
+E:\FolderCode\YousefProject\MyCodeGenerator\CodeGenBuisness\obj\Debug\CodeGenBuisness.pdb
+C:\Users\ZAIUN\Desktop\MyCodeGenerator\CodeGenBuisness\bin\Debug\CodeGenBuisness.dll
+C:\Users\ZAIUN\Desktop\MyCodeGenerator\CodeGenBuisness\bin\Debug\CodeGenBuisness.pdb
+C:\Users\ZAIUN\Desktop\MyCodeGenerator\CodeGenBuisness\bin\Debug\CodeGenAccess.dll
+C:\Users\ZAIUN\Desktop\MyCodeGenerator\CodeGenBuisness\bin\Debug\MyC#AndSQLLib.dll
+C:\Users\ZAIUN\Desktop\MyCodeGenerator\CodeGenBuisness\bin\Debug\CodeGenAccess.pdb
+C:\Users\ZAIUN\Desktop\MyCodeGenerator\CodeGenBuisness\bin\Debug\MyC#AndSQLLib.pdb
+C:\Users\ZAIUN\Desktop\MyCodeGenerator\CodeGenBuisness\obj\Debug\CodeGenBuisness.csproj.AssemblyReference.cache
+C:\Users\ZAIUN\Desktop\MyCodeGenerator\CodeGenBuisness\obj\Debug\CodeGenBuisness.csproj.CoreCompileInputs.cache
+C:\Users\ZAIUN\Desktop\MyCodeGenerator\CodeGenBuisness\obj\Debug\CodeGenB.EFB0B36C.Up2Date
+C:\Users\ZAIUN\Desktop\MyCodeGenerator\CodeGenBuisness\obj\Debug\CodeGenBuisness.dll
+C:\Users\ZAIUN\Desktop\MyCodeGenerator\CodeGenBuisness\obj\Debug\CodeGenBuisness.pdb
+C:\Users\Yousif\Desktop\اخر نسخة من المشروع\MyCodeGenerator\MyCodeGenerator\CodeGenBuisness\obj\Debug\CodeGenBuisness.csproj.AssemblyReference.cache
+C:\Users\Yousif\Desktop\اخر نسخة من المشروع\MyCodeGenerator\MyCodeGenerator\CodeGenBuisness\obj\Debug\CodeGenBuisness.csproj.CoreCompileInputs.cache
+C:\Users\Yousif\Desktop\اخر نسخة من المشروع\MyCodeGenerator\MyCodeGenerator\CodeGenBuisness\obj\Debug\CodeGenBuisness.dll
+C:\Users\Yousif\Desktop\اخر نسخة من المشروع\MyCodeGenerator\MyCodeGenerator\CodeGenBuisness\obj\Debug\CodeGenBuisness.pdb
+C:\Users\Yousif\Desktop\اخر نسخة من المشروع\MyCodeGenerator\MyCodeGenerator\CodeGenBuisness\bin\Debug\CodeGenBuisness.dll
+C:\Users\Yousif\Desktop\اخر نسخة من المشروع\MyCodeGenerator\MyCodeGenerator\CodeGenBuisness\bin\Debug\CodeGenBuisness.pdb
+C:\Users\Yousif\Desktop\اخر نسخة من المشروع\MyCodeGenerator\MyCodeGenerator\CodeGenBuisness\bin\Debug\CodeGenAccess.dll
+C:\Users\Yousif\Desktop\اخر نسخة من المشروع\MyCodeGenerator\MyCodeGenerator\CodeGenBuisness\bin\Debug\MyC#AndSQLLib.dll
+C:\Users\Yousif\Desktop\اخر نسخة من المشروع\MyCodeGenerator\MyCodeGenerator\CodeGenBuisness\bin\Debug\CodeGenAccess.pdb
+C:\Users\Yousif\Desktop\اخر نسخة من المشروع\MyCodeGenerator\MyCodeGenerator\CodeGenBuisness\bin\Debug\MyC#AndSQLLib.pdb
+C:\Users\Yousif\Desktop\اخر نسخة من المشروع\MyCodeGenerator\MyCodeGenerator\CodeGenBuisness\obj\Debug\CodeGenBuisness.csproj.CopyComplete
+E:\FolderCode\YousefProject\MyCodeGenerator\MyCodeGenerator\CodeGenBuisness\bin\Debug\CodeGenBuisness.dll
+E:\FolderCode\YousefProject\MyCodeGenerator\MyCodeGenerator\CodeGenBuisness\bin\Debug\CodeGenBuisness.pdb
+E:\FolderCode\YousefProject\MyCodeGenerator\MyCodeGenerator\CodeGenBuisness\bin\Debug\CodeGenAccess.dll
+E:\FolderCode\YousefProject\MyCodeGenerator\MyCodeGenerator\CodeGenBuisness\bin\Debug\MyC#AndSQLLib.dll
+E:\FolderCode\YousefProject\MyCodeGenerator\MyCodeGenerator\CodeGenBuisness\bin\Debug\CodeGenAccess.pdb
+E:\FolderCode\YousefProject\MyCodeGenerator\MyCodeGenerator\CodeGenBuisness\bin\Debug\MyC#AndSQLLib.pdb
+E:\FolderCode\YousefProject\MyCodeGenerator\MyCodeGenerator\CodeGenBuisness\obj\Debug\CodeGenBuisness.csproj.AssemblyReference.cache
+E:\FolderCode\YousefProject\MyCodeGenerator\MyCodeGenerator\CodeGenBuisness\obj\Debug\CodeGenBuisness.csproj.CoreCompileInputs.cache
+E:\FolderCode\YousefProject\MyCodeGenerator\MyCodeGenerator\CodeGenBuisness\obj\Debug\CodeGenB.EFB0B36C.Up2Date
+E:\FolderCode\YousefProject\MyCodeGenerator\MyCodeGenerator\CodeGenBuisness\obj\Debug\CodeGenBuisness.dll
+E:\FolderCode\YousefProject\MyCodeGenerator\MyCodeGenerator\CodeGenBuisness\obj\Debug\CodeGenBuisness.pdb
+E:\FolderCode\YousefProject\MyCodeGenerator\MyCodeGenerator\CodeGenBuisness\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\FolderCode\YousefProject\MyCodeGenerator\MyCodeGenerator\CodeGenBuisness\bin\Debug\Microsoft.Build.dll
+E:\FolderCode\YousefProject\MyCodeGenerator\MyCodeGenerator\CodeGenBuisness\bin\Debug\Microsoft.IO.Redist.dll
+E:\FolderCode\YousefProject\MyCodeGenerator\MyCodeGenerator\CodeGenBuisness\bin\Debug\Microsoft.NET.StringTools.dll
+E:\FolderCode\YousefProject\MyCodeGenerator\MyCodeGenerator\CodeGenBuisness\bin\Debug\System.Buffers.dll
+E:\FolderCode\YousefProject\MyCodeGenerator\MyCodeGenerator\CodeGenBuisness\bin\Debug\System.Collections.Immutable.dll
+E:\FolderCode\YousefProject\MyCodeGenerator\MyCodeGenerator\CodeGenBuisness\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\FolderCode\YousefProject\MyCodeGenerator\MyCodeGenerator\CodeGenBuisness\bin\Debug\System.Memory.dll
+E:\FolderCode\YousefProject\MyCodeGenerator\MyCodeGenerator\CodeGenBuisness\bin\Debug\System.Numerics.Vectors.dll
+E:\FolderCode\YousefProject\MyCodeGenerator\MyCodeGenerator\CodeGenBuisness\bin\Debug\System.Reflection.Metadata.dll
+E:\FolderCode\YousefProject\MyCodeGenerator\MyCodeGenerator\CodeGenBuisness\bin\Debug\System.Reflection.MetadataLoadContext.dll
+E:\FolderCode\YousefProject\MyCodeGenerator\MyCodeGenerator\CodeGenBuisness\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\FolderCode\YousefProject\MyCodeGenerator\MyCodeGenerator\CodeGenBuisness\bin\Debug\System.Security.Principal.Windows.dll
+E:\FolderCode\YousefProject\MyCodeGenerator\MyCodeGenerator\CodeGenBuisness\bin\Debug\System.Text.Encodings.Web.dll
+E:\FolderCode\YousefProject\MyCodeGenerator\MyCodeGenerator\CodeGenBuisness\bin\Debug\System.Text.Json.dll
+E:\FolderCode\YousefProject\MyCodeGenerator\MyCodeGenerator\CodeGenBuisness\bin\Debug\System.Threading.Tasks.Dataflow.dll
+E:\FolderCode\YousefProject\MyCodeGenerator\MyCodeGenerator\CodeGenBuisness\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\FolderCode\YousefProject\MyCodeGenerator\MyCodeGenerator\CodeGenBuisness\bin\Debug\System.ValueTuple.dll
+E:\FolderCode\YousefProject\MyCodeGenerator\MyCodeGenerator\CodeGenBuisness\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\FolderCode\YousefProject\MyCodeGenerator\MyCodeGenerator\CodeGenBuisness\bin\Debug\Microsoft.Build.pdb
+E:\FolderCode\YousefProject\MyCodeGenerator\MyCodeGenerator\CodeGenBuisness\bin\Debug\Microsoft.Build.xml
+E:\FolderCode\YousefProject\MyCodeGenerator\MyCodeGenerator\CodeGenBuisness\bin\Debug\Microsoft.IO.Redist.xml
+E:\FolderCode\YousefProject\MyCodeGenerator\MyCodeGenerator\CodeGenBuisness\bin\Debug\Microsoft.NET.StringTools.pdb
+E:\FolderCode\YousefProject\MyCodeGenerator\MyCodeGenerator\CodeGenBuisness\bin\Debug\Microsoft.NET.StringTools.xml
+E:\FolderCode\YousefProject\MyCodeGenerator\MyCodeGenerator\CodeGenBuisness\bin\Debug\System.Buffers.xml
+E:\FolderCode\YousefProject\MyCodeGenerator\MyCodeGenerator\CodeGenBuisness\bin\Debug\System.Collections.Immutable.xml
+E:\FolderCode\YousefProject\MyCodeGenerator\MyCodeGenerator\CodeGenBuisness\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\FolderCode\YousefProject\MyCodeGenerator\MyCodeGenerator\CodeGenBuisness\bin\Debug\System.Memory.xml
+E:\FolderCode\YousefProject\MyCodeGenerator\MyCodeGenerator\CodeGenBuisness\bin\Debug\System.Numerics.Vectors.xml
+E:\FolderCode\YousefProject\MyCodeGenerator\MyCodeGenerator\CodeGenBuisness\bin\Debug\System.Reflection.Metadata.xml
+E:\FolderCode\YousefProject\MyCodeGenerator\MyCodeGenerator\CodeGenBuisness\bin\Debug\System.Reflection.MetadataLoadContext.xml
+E:\FolderCode\YousefProject\MyCodeGenerator\MyCodeGenerator\CodeGenBuisness\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\FolderCode\YousefProject\MyCodeGenerator\MyCodeGenerator\CodeGenBuisness\bin\Debug\System.Security.Principal.Windows.xml
+E:\FolderCode\YousefProject\MyCodeGenerator\MyCodeGenerator\CodeGenBuisness\bin\Debug\System.Text.Encodings.Web.xml
+E:\FolderCode\YousefProject\MyCodeGenerator\MyCodeGenerator\CodeGenBuisness\bin\Debug\System.Text.Json.xml
+E:\FolderCode\YousefProject\MyCodeGenerator\MyCodeGenerator\CodeGenBuisness\bin\Debug\System.Threading.Tasks.Dataflow.xml
+E:\FolderCode\YousefProject\MyCodeGenerator\MyCodeGenerator\CodeGenBuisness\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\FolderCode\YousefProject\MyCodeGenerator\MyCodeGenerator\CodeGenBuisness\bin\Debug\System.ValueTuple.xml

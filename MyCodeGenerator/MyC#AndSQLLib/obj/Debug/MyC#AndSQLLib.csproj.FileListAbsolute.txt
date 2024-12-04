@@ -1,0 +1,27 @@
+C:\Users\Yousif\Desktop\CodeGen\MyCodeGenerator (4)\MyCodeGenerator\MyC#AndSQLLib\bin\Debug\MyC#AndSQLLib.dll
+C:\Users\Yousif\Desktop\CodeGen\MyCodeGenerator (4)\MyCodeGenerator\MyC#AndSQLLib\bin\Debug\MyC#AndSQLLib.pdb
+C:\Users\Yousif\Desktop\CodeGen\MyCodeGenerator (4)\MyCodeGenerator\MyC#AndSQLLib\obj\Debug\MyC#AndSQLLib.csproj.AssemblyReference.cache
+C:\Users\Yousif\Desktop\CodeGen\MyCodeGenerator (4)\MyCodeGenerator\MyC#AndSQLLib\obj\Debug\MyC#AndSQLLib.csproj.CoreCompileInputs.cache
+C:\Users\Yousif\Desktop\CodeGen\MyCodeGenerator (4)\MyCodeGenerator\MyC#AndSQLLib\obj\Debug\MyC#AndSQLLib.dll
+C:\Users\Yousif\Desktop\CodeGen\MyCodeGenerator (4)\MyCodeGenerator\MyC#AndSQLLib\obj\Debug\MyC#AndSQLLib.pdb
+E:\FolderCode\YousefProject\MyCodeGenerator\MyC#AndSQLLib\bin\Debug\MyC#AndSQLLib.dll
+E:\FolderCode\YousefProject\MyCodeGenerator\MyC#AndSQLLib\bin\Debug\MyC#AndSQLLib.pdb
+E:\FolderCode\YousefProject\MyCodeGenerator\MyC#AndSQLLib\obj\Debug\MyC#AndSQLLib.csproj.AssemblyReference.cache
+E:\FolderCode\YousefProject\MyCodeGenerator\MyC#AndSQLLib\obj\Debug\MyC#AndSQLLib.csproj.CoreCompileInputs.cache
+E:\FolderCode\YousefProject\MyCodeGenerator\MyC#AndSQLLib\obj\Debug\MyC#AndSQLLib.dll
+E:\FolderCode\YousefProject\MyCodeGenerator\MyC#AndSQLLib\obj\Debug\MyC#AndSQLLib.pdb
+C:\Users\ZAIUN\Desktop\MyCodeGenerator\MyC#AndSQLLib\bin\Debug\MyC#AndSQLLib.dll
+C:\Users\ZAIUN\Desktop\MyCodeGenerator\MyC#AndSQLLib\bin\Debug\MyC#AndSQLLib.pdb
+C:\Users\ZAIUN\Desktop\MyCodeGenerator\MyC#AndSQLLib\obj\Debug\MyC#AndSQLLib.csproj.AssemblyReference.cache
+C:\Users\ZAIUN\Desktop\MyCodeGenerator\MyC#AndSQLLib\obj\Debug\MyC#AndSQLLib.csproj.CoreCompileInputs.cache
+C:\Users\ZAIUN\Desktop\MyCodeGenerator\MyC#AndSQLLib\obj\Debug\MyC#AndSQLLib.dll
+C:\Users\ZAIUN\Desktop\MyCodeGenerator\MyC#AndSQLLib\obj\Debug\MyC#AndSQLLib.pdb
+E:\FolderCode\YousefProject\MyCodeGenerator\MyCodeGenerator\MyC#AndSQLLib\bin\Debug\MyC#AndSQLLib.dll
+E:\FolderCode\YousefProject\MyCodeGenerator\MyCodeGenerator\MyC#AndSQLLib\bin\Debug\MyC#AndSQLLib.pdb
+E:\FolderCode\YousefProject\MyCodeGenerator\MyCodeGenerator\MyC#AndSQLLib\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\FolderCode\YousefProject\MyCodeGenerator\MyCodeGenerator\MyC#AndSQLLib\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\FolderCode\YousefProject\MyCodeGenerator\MyCodeGenerator\MyC#AndSQLLib\obj\Debug\MyC#AndSQLLib.csproj.AssemblyReference.cache
+E:\FolderCode\YousefProject\MyCodeGenerator\MyCodeGenerator\MyC#AndSQLLib\obj\Debug\MyC#AndSQLLib.csproj.CoreCompileInputs.cache
+E:\FolderCode\YousefProject\MyCodeGenerator\MyCodeGenerator\MyC#AndSQLLib\obj\Debug\MyC#AndS.F4F64363.Up2Date
+E:\FolderCode\YousefProject\MyCodeGenerator\MyCodeGenerator\MyC#AndSQLLib\obj\Debug\MyC#AndSQLLib.dll
+E:\FolderCode\YousefProject\MyCodeGenerator\MyCodeGenerator\MyC#AndSQLLib\obj\Debug\MyC#AndSQLLib.pdb

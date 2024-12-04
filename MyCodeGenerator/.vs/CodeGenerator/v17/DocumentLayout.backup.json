@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\FolderCode\\YousefProject\\MyCodeGenerator\\MyCodeGenerator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7AA9CE3-E45D-48DE-A856-D7332F1D0D54}|CodeGenerator\\CodeGenerator.csproj|E:\\FolderCode\\YousefProject\\MyCodeGenerator\\MyCodeGenerator\\codegenerator\\strsql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7AA9CE3-E45D-48DE-A856-D7332F1D0D54}|CodeGenerator\\CodeGenerator.csproj|solutionrelative:codegenerator\\strsql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7AA9CE3-E45D-48DE-A856-D7332F1D0D54}|CodeGenerator\\CodeGenerator.csproj|E:\\FolderCode\\YousefProject\\MyCodeGenerator\\MyCodeGenerator\\codegenerator\\strsql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E7AA9CE3-E45D-48DE-A856-D7332F1D0D54}|CodeGenerator\\CodeGenerator.csproj|solutionrelative:codegenerator\\strsql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5CF0466-69ED-4C2D-A116-0E18CC9F0CF2}|CodeGenBuisness\\CodeGenBuisness.csproj|E:\\FolderCode\\YousefProject\\MyCodeGenerator\\MyCodeGenerator\\codegenbuisness\\codegenbusiness\\clsdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5CF0466-69ED-4C2D-A116-0E18CC9F0CF2}|CodeGenBuisness\\CodeGenBuisness.csproj|solutionrelative:codegenbuisness\\codegenbusiness\\clsdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5CF0466-69ED-4C2D-A116-0E18CC9F0CF2}|CodeGenBuisness\\CodeGenBuisness.csproj|E:\\FolderCode\\YousefProject\\MyCodeGenerator\\MyCodeGenerator\\codegenbuisness\\build_bll_dal_without_sp\\access\\allaccessmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5CF0466-69ED-4C2D-A116-0E18CC9F0CF2}|CodeGenBuisness\\CodeGenBuisness.csproj|solutionrelative:codegenbuisness\\build_bll_dal_without_sp\\access\\allaccessmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5CF0466-69ED-4C2D-A116-0E18CC9F0CF2}|CodeGenBuisness\\CodeGenBuisness.csproj|e:\\foldercode\\yousefproject\\mycodegenerator\\mycodegenerator\\codegenbuisness\\codegenbusiness\\clscreatenewproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5CF0466-69ED-4C2D-A116-0E18CC9F0CF2}|CodeGenBuisness\\CodeGenBuisness.csproj|solutionrelative:codegenbuisness\\codegenbusiness\\clscreatenewproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AllAccessMethods.cs",
+              "DocumentMoniker": "E:\\FolderCode\\YousefProject\\MyCodeGenerator\\MyCodeGenerator\\CodeGenBuisness\\Build_BLL_DAL_withOut_Sp\\Access\\AllAccessMethods.cs",
+              "RelativeDocumentMoniker": "CodeGenBuisness\\Build_BLL_DAL_withOut_Sp\\Access\\AllAccessMethods.cs",
+              "ToolTip": "E:\\FolderCode\\YousefProject\\MyCodeGenerator\\MyCodeGenerator\\CodeGenBuisness\\Build_BLL_DAL_withOut_Sp\\Access\\AllAccessMethods.cs",
+              "RelativeToolTip": "CodeGenBuisness\\Build_BLL_DAL_withOut_Sp\\Access\\AllAccessMethods.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T17:46:22.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "clsDatabase.cs",
+              "DocumentMoniker": "E:\\FolderCode\\YousefProject\\MyCodeGenerator\\MyCodeGenerator\\CodeGenBuisness\\CodeGenBusiness\\clsDatabase.cs",
+              "RelativeDocumentMoniker": "CodeGenBuisness\\CodeGenBusiness\\clsDatabase.cs",
+              "ToolTip": "E:\\FolderCode\\YousefProject\\MyCodeGenerator\\MyCodeGenerator\\CodeGenBuisness\\CodeGenBusiness\\clsDatabase.cs",
+              "RelativeToolTip": "CodeGenBuisness\\CodeGenBusiness\\clsDatabase.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwF8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T17:02:15.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "clsCreateNewProject.cs",
+              "DocumentMoniker": "E:\\FolderCode\\YousefProject\\MyCodeGenerator\\MyCodeGenerator\\CodeGenBuisness\\CodeGenBusiness\\clsCreateNewProject.cs",
+              "RelativeDocumentMoniker": "CodeGenBuisness\\CodeGenBusiness\\clsCreateNewProject.cs",
+              "ToolTip": "E:\\FolderCode\\YousefProject\\MyCodeGenerator\\MyCodeGenerator\\CodeGenBuisness\\CodeGenBusiness\\clsCreateNewProject.cs",
+              "RelativeToolTip": "CodeGenBuisness\\CodeGenBusiness\\clsCreateNewProject.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAzwCQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T16:56:06.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "strSQL.cs [Design]",
+              "DocumentMoniker": "E:\\FolderCode\\YousefProject\\MyCodeGenerator\\MyCodeGenerator\\CodeGenerator\\strSQL.cs",
+              "RelativeDocumentMoniker": "CodeGenerator\\strSQL.cs",
+              "ToolTip": "E:\\FolderCode\\YousefProject\\MyCodeGenerator\\MyCodeGenerator\\CodeGenerator\\strSQL.cs [Design]",
+              "RelativeToolTip": "CodeGenerator\\strSQL.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T14:47:42.975Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "strSQL.cs",
+              "DocumentMoniker": "E:\\FolderCode\\YousefProject\\MyCodeGenerator\\MyCodeGenerator\\CodeGenerator\\strSQL.cs",
+              "RelativeDocumentMoniker": "CodeGenerator\\strSQL.cs",
+              "ToolTip": "E:\\FolderCode\\YousefProject\\MyCodeGenerator\\MyCodeGenerator\\CodeGenerator\\strSQL.cs",
+              "RelativeToolTip": "CodeGenerator\\strSQL.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAcwKIAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T12:47:23.611Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
