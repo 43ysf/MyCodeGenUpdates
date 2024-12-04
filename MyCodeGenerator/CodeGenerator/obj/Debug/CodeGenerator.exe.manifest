@@ -8,12 +8,30 @@
     <commandLine file="CodeGenerator.exe" parameters="" />
   </entryPoint>
   <trustInfo>
-<security xmlns="urn:schemas-microsoft-com:asm.v2">
-  <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
-    <requestedExecutionLevel level="asInvoker" uiAccess="false" />
-  </requestedPrivileges>
-</security>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the
+          requestedExecutionLevel node with one of the following.
 
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+      <requestedPrivileges>
+        <requestedExecutionLevel level="requireAdministrator" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
   </trustInfo>
   <dependency>
     <dependentOS>
@@ -59,7 +77,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>N1P86/rHZ9fUZKzLO6z++zvpt/DdQsvrAs8wvqqABMg=</dsig:DigestValue>
+        <dsig:DigestValue>1av+LhwGjQ7moBB5JU60pKM5faklYZSdGyZLztBc8uE=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
