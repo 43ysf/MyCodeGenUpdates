@@ -47,9 +47,6 @@
       <HintPath>..\packages\Microsoft.NET.StringTools.17.12.6\lib\net472\Microsoft.NET.StringTools.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.Win32.Primitives" />
-    <Reference Include="MyC#AndSQLLib">
-      <HintPath>..\MyC#AndSQLLib\bin\Debug\MyC#AndSQLLib.dll</HintPath>
-    </Reference>
     <Reference Include="MyCSharpAndSQLLib">
       <HintPath>..\MyC#AndSQLLib\bin\Debug\MyCSharpAndSQLLib.dll</HintPath>
     </Reference>

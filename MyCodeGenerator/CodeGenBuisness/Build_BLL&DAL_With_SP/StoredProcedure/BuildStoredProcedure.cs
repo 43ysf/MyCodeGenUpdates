@@ -11,7 +11,7 @@ using System.Threading.Tasks;
 using CodeGenAccess;
 using CodeGenBuisness;
 using Microsoft.SqlServer.Server;
-using MyC_AndSQLLib;
+using MyCSharpAndSQLLib;
 
 namespace CodeGenBusiness
 {

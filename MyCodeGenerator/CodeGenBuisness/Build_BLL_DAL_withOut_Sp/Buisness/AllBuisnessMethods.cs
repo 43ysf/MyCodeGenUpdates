@@ -1,17 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Data;
-using System.Data.SqlClient;
-using System.Linq;
-using System.Runtime.CompilerServices;
+﻿using MyCSharpAndSQLLib;
 using System.Text;
-using System.Text.RegularExpressions;
-using System.Threading;
-using System.Threading.Tasks;
-using CodeGenAccess;
-using CodeGenBuisness;
-using Microsoft.SqlServer.Server;
-using MyC_AndSQLLib;
 
 namespace CodeGenBusiness
 {

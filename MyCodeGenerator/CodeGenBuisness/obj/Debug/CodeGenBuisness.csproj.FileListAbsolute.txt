@@ -109,8 +109,6 @@ C:\Users\Yousif\Desktop\MyCodeGenPulishing\MyCodeGenUpdates\MyCodeGenerator\Code
 C:\Users\Yousif\Desktop\MyCodeGenPulishing\MyCodeGenUpdates\MyCodeGenerator\CodeGenBuisness\bin\Debug\Microsoft.Build.dll
 C:\Users\Yousif\Desktop\MyCodeGenPulishing\MyCodeGenUpdates\MyCodeGenerator\CodeGenBuisness\bin\Debug\Microsoft.IO.Redist.dll
 C:\Users\Yousif\Desktop\MyCodeGenPulishing\MyCodeGenUpdates\MyCodeGenerator\CodeGenBuisness\bin\Debug\Microsoft.NET.StringTools.dll
-C:\Users\Yousif\Desktop\MyCodeGenPulishing\MyCodeGenUpdates\MyCodeGenerator\CodeGenBuisness\bin\Debug\MyC#AndSQLLib.dll
-C:\Users\Yousif\Desktop\MyCodeGenPulishing\MyCodeGenUpdates\MyCodeGenerator\CodeGenBuisness\bin\Debug\MyCSharpAndSQLLib.dll
 C:\Users\Yousif\Desktop\MyCodeGenPulishing\MyCodeGenUpdates\MyCodeGenerator\CodeGenBuisness\bin\Debug\System.Buffers.dll
 C:\Users\Yousif\Desktop\MyCodeGenPulishing\MyCodeGenUpdates\MyCodeGenerator\CodeGenBuisness\bin\Debug\System.Collections.Immutable.dll
 C:\Users\Yousif\Desktop\MyCodeGenPulishing\MyCodeGenUpdates\MyCodeGenerator\CodeGenBuisness\bin\Debug\System.Configuration.ConfigurationManager.dll
@@ -132,7 +130,6 @@ C:\Users\Yousif\Desktop\MyCodeGenPulishing\MyCodeGenUpdates\MyCodeGenerator\Code
 C:\Users\Yousif\Desktop\MyCodeGenPulishing\MyCodeGenUpdates\MyCodeGenerator\CodeGenBuisness\bin\Debug\Microsoft.IO.Redist.xml
 C:\Users\Yousif\Desktop\MyCodeGenPulishing\MyCodeGenUpdates\MyCodeGenerator\CodeGenBuisness\bin\Debug\Microsoft.NET.StringTools.pdb
 C:\Users\Yousif\Desktop\MyCodeGenPulishing\MyCodeGenUpdates\MyCodeGenerator\CodeGenBuisness\bin\Debug\Microsoft.NET.StringTools.xml
-C:\Users\Yousif\Desktop\MyCodeGenPulishing\MyCodeGenUpdates\MyCodeGenerator\CodeGenBuisness\bin\Debug\MyC#AndSQLLib.pdb
 C:\Users\Yousif\Desktop\MyCodeGenPulishing\MyCodeGenUpdates\MyCodeGenerator\CodeGenBuisness\bin\Debug\MyCSharpAndSQLLib.pdb
 C:\Users\Yousif\Desktop\MyCodeGenPulishing\MyCodeGenUpdates\MyCodeGenerator\CodeGenBuisness\bin\Debug\System.Buffers.xml
 C:\Users\Yousif\Desktop\MyCodeGenPulishing\MyCodeGenUpdates\MyCodeGenerator\CodeGenBuisness\bin\Debug\System.Collections.Immutable.xml
